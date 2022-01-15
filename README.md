@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👋 Hi ! I'm Kieran Schubert !
+- :eyes: I'm into Data Science applied to sports.
+- :office: I am currently working as a Research Assistant at HES-SO Geneva.
+- :closed_book: I specialize in Computer Vision, NLP and ML applied to Web Content Extraction.
+- :star: I'd love to collaborate on data science problems applied to sports.
+- :bike: I am an avid cyclist, and anything related to this gets my attention !
+- :mailbox: You can reach me through my Linkedin profile.
