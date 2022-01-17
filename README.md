@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - :closed_book: I specialize in Computer Vision, NLP and ML applied to Web Content Extraction.
 - :star: I'd love to collaborate on data science problems applied to sports.
 - :bike: I am an avid cyclist, and anything related to this gets my attention !
-- :mailbox: You can reach me through my Linkedin profile.
+- :mailbox: You can reach me through my [Linkedin](https://www.linkedin.com/in/kieran-schubert-110772137/) profile.
