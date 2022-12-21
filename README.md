@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 Hi ! I'm Kieran Schubert !
+- 👋 Hi ! I'm Kieran !
 - :office: Working as a Research Assistant at HES-SO Geneva and as a Data Scientist at the Swiss Cycling Federation.
 - :closed_book: Focusing on NLP and ML applied to Web Content Extraction.
 - :eyes: Into Data Science applied to sports and IARTS.
