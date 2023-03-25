@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 - 👋 Hi ! I'm Kieran !
 - :office: Working as a Research Assistant at HES-SO Geneva and as a Data Scientist at the Swiss Cycling Federation.
-- :closed_book: Focusing on NLP and ML applied to Web Content Extraction.
-- :eyes: Into Data Science applied to sports and IARTS.
-- :star: I'd love to collaborate on data science problems applied to sports or art.
+- :closed_book: Focusing on NLP and DL applied to Web Content and Knowledge Extraction. Developping custom LLM architectures, distributed training and fine-tuning for structured content extraction, QA, Semantic Search, etc.  
+- :eyes: Personal projects in data analysis applied to sports and IARTS.
+- :star: I'd love to collaborate on data science problems applied to NLP, sports or art.
 - :bike: Avid cyclist, and anything related to this gets my attention !
 - :mailbox: You can reach me through my [Linkedin](https://www.linkedin.com/in/kieran-schubert-110772137/) profile.
