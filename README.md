@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 - 👋 Hi ! I'm Kieran !
-- :office: AI Engineer and 2024 [Innovation Fellow](https://www.innovationfellowship.ch/) @ Eidgenössische Ausgleichskasse EAK and ZAS.
+- :office: AI Engineer and 2024 [Innovation Fellow](https://www.innovationfellowship.ch/) @ Eidgenössische Ausgleichskasse EAK and Zentrale Ausgleichsstelle ZAS.
 - :closed_book: Focusing on developping RAG Chatbot Agentic applications, distributed training and fine-tuning of LLMs, structured content extraction, QA, Semantic Search, etc.  
 - :eyes: Personal projects in data analysis applied to sports, IARTS and AI.
 - :star: I'd love to collaborate on data science problems applied to NLP, AI, sports or art.
